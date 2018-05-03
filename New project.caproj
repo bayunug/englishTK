@@ -19,8 +19,8 @@
         <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
     </configurations>
     <window-size>
-        <width>854</width>
-        <height>480</height>
+        <width>900</width>
+        <height>500</height>
     </window-size>
     <pixel-rounding>0</pixel-rounding>
     <preview-effects>1</preview-effects>
@@ -41,6 +41,467 @@
         <prop name="Use high-DPI display">Yes</prop>
     </configuration-settings>
     <object-folder>
+        <object-folder name="tebak gambar">
+            <object-folder name="soal">
+                <object-type name="BLACKBOARD" sid="726532759251033">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="624124902134583" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\BLACKBOARD.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="cow" sid="577170898082994">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="624051973651086" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.500846" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\cow.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219966" />
+                                    <point x="0.499168" y="0.00169205" />
+                                    <point x="0.978369" y="0.0219966" />
+                                    <point x="0.998336" y="0.499154" />
+                                    <point x="0.980033" y="0.979695" />
+                                    <point x="0.499168" y="1" />
+                                    <point x="0.0199667" y="0.979695" />
+                                    <point x="0" y="0.499154" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="cycling" sid="976981591577139">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="504490974992775" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\cycling.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="cat" sid="498144684175261">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="405864227585978" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\cat.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="COOKING" sid="560004844346672">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="500102239040740" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\COOKING.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="ear" sid="185866502287825">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="147270127640745" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\ear.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="BANANA" sid="511529540850702">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="297707515071867" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\BANANA.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="CHAIR" sid="968321088438756">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="839544450154833" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\CHAIR.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="green" sid="936759086621289">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="145468919608924" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.500846" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\green.png">
+                                <collision-poly>
+                                    <point x="0.0199667" y="0.0203046" />
+                                    <point x="0.499168" y="0.00169205" />
+                                    <point x="0.978369" y="0.0219966" />
+                                    <point x="0.998336" y="0.499154" />
+                                    <point x="0.978369" y="0.978003" />
+                                    <point x="0.499168" y="1" />
+                                    <point x="0.0199667" y="0.979695" />
+                                    <point x="0" y="0.499154" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="eye" sid="979081019998109">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="912299886441689" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\eye.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="GRAPE" sid="900674893425435">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="825740486518908" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\GRAPE.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="FISH" sid="358228271709061">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="550129131137129" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\FISH.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="FOOT" sid="857818161637000">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="638468036742193" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\FOOT.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="SINGING" sid="139400616484169">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="151531177655810" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\SINGING.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="hair" sid="812527472405186">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="599533158266114" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\hair.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="RULER" sid="710099467086745">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="726920879466796" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\RULER.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="elephant" sid="428927680645430">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="215514695618571" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\elephant.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="tooth" sid="360323808971265">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="575202488375932" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\tooth.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="WHITE" sid="356741879964087">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="915757707878006" speed="5">
+                            <frame duration="1" hotspotX="0.5" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\WHITE.png">
+                                <collision-poly>
+                                    <point x="0.0206897" y="0.0210526" />
+                                    <point x="0.5" y="0" />
+                                    <point x="0.97931" y="0.0210526" />
+                                    <point x="0.998276" y="0.5" />
+                                    <point x="0.97931" y="0.978947" />
+                                    <point x="0.5" y="1" />
+                                    <point x="0.0206897" y="0.978947" />
+                                    <point x="0" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="table" sid="576668652953459">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="121386706997057" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.500846" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\table.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219966" />
+                                    <point x="0.499168" y="0" />
+                                    <point x="0.980033" y="0.0203046" />
+                                    <point x="1" y="0.499154" />
+                                    <point x="0.980033" y="0.979695" />
+                                    <point x="0.499168" y="1" />
+                                    <point x="0.0216306" y="0.978003" />
+                                    <point x="0.00166389" y="0.499154" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="WATERMELON" sid="665582400267627">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="270188704391345" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\WATERMELON.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="yellow" sid="258497193181192">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="949266917326747" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\yellow.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="swiming" sid="446772079440578">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="175744488220794" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.5" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\swiming.png">
+                                <collision-poly>
+                                    <point x="0.0216306" y="0.0219595" />
+                                    <point x="0.499168" y="0.00168919" />
+                                    <point x="0.978369" y="0.0219595" />
+                                    <point x="1" y="0.5" />
+                                    <point x="0.978369" y="0.978041" />
+                                    <point x="0.499168" y="0.998311" />
+                                    <point x="0.0216306" y="0.978041" />
+                                    <point x="0.00166389" y="0.5" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+                <object-type name="red" sid="377671063598929">
+                    <plugin id="Sprite" />
+                    <animation-folder>
+                        <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="653488502170312" speed="5">
+                            <frame duration="1" hotspotX="0.500832" hotspotY="0.500846" original-source="F:\media file\Blok-D\Export Design\Tebak Gambar\soal\red.png">
+                                <collision-poly>
+                                    <point x="0.0199667" y="0.0203046" />
+                                    <point x="0.499168" y="0" />
+                                    <point x="0.980033" y="0.0203046" />
+                                    <point x="0.998336" y="0.499154" />
+                                    <point x="0.978369" y="0.978003" />
+                                    <point x="0.499168" y="0.998308" />
+                                    <point x="0.0216306" y="0.978003" />
+                                    <point x="0" y="0.499154" />
+                                </collision-poly>
+                            </frame>
+                        </animation>
+                    </animation-folder>
+                </object-type>
+            </object-folder>
+            <object-folder name="jawaban" />
+        </object-folder>
         <object-type name="bg1" sid="103392042827002">
             <plugin id="Sprite" />
             <animation-folder>
@@ -219,10 +680,12 @@
     <layout-folder>
         <layout>Home.xml</layout>
         <layout>Dashboard.xml</layout>
+        <layout>tebakgambar.xml</layout>
     </layout-folder>
     <event-folder>
-        <event-sheet>Home.xml</event-sheet>
+        <event-sheet>eventtebakgambar.xml</event-sheet>
         <event-sheet>Dashboard.xml</event-sheet>
+        <event-sheet>Event sheet 1.xml</event-sheet>
     </event-folder>
     <global-instances>
         <global-instance type="Touch" uid="4">
