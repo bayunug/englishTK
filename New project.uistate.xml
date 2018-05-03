@@ -9,12 +9,7 @@ you probably do not want to add any .uistate.xml files to the repository.-->
         </active>
         <display name="HTML5" />
     </configurations>
-    <open-tabs>
-        <layout order="1">Home</layout>
-        <layout active="1" order="2">Dashboard</layout>
-        <event-sheet order="0">Home</event-sheet>
-        <event-sheet order="1">Dashboard</event-sheet>
-    </open-tabs>
+    <open-tabs />
     <properties>
         <property expanded="1" name="About" />
         <property expanded="1" name="Project settings" />
@@ -23,13 +18,40 @@ you probably do not want to add any .uistate.xml files to the repository.-->
     </properties>
     <families-expanded root="1" />
     <folders-expanded>
-        <folder expanded="0" path="object-folder/" />
+        <folder expanded="1" path="object-folder/" />
+        <folder expanded="1" path="object-folder/tebak gambar/" />
+        <folder expanded="0" path="object-folder/tebak gambar/soal/" />
+        <folder expanded="1" path="object-folder/tebak gambar/jawaban/" />
         <folder expanded="1" path="layout-folder/" />
         <folder expanded="1" path="event-folder/" />
         <folder expanded="1" path="file-folder/" />
         <folder expanded="1" path="sound-folder/" />
         <folder expanded="1" path="music-folder/" />
         <folder expanded="0" path="file-folder/Icons/" />
+        <folder expanded="1" path="animation-folder/BLACKBOARD/" />
+        <folder expanded="1" path="animation-folder/cow/" />
+        <folder expanded="1" path="animation-folder/cycling/" />
+        <folder expanded="1" path="animation-folder/cat/" />
+        <folder expanded="1" path="animation-folder/COOKING/" />
+        <folder expanded="1" path="animation-folder/ear/" />
+        <folder expanded="1" path="animation-folder/BANANA/" />
+        <folder expanded="1" path="animation-folder/CHAIR/" />
+        <folder expanded="1" path="animation-folder/green/" />
+        <folder expanded="1" path="animation-folder/eye/" />
+        <folder expanded="1" path="animation-folder/GRAPE/" />
+        <folder expanded="1" path="animation-folder/FISH/" />
+        <folder expanded="1" path="animation-folder/FOOT/" />
+        <folder expanded="1" path="animation-folder/SINGING/" />
+        <folder expanded="1" path="animation-folder/hair/" />
+        <folder expanded="1" path="animation-folder/RULER/" />
+        <folder expanded="1" path="animation-folder/elephant/" />
+        <folder expanded="1" path="animation-folder/tooth/" />
+        <folder expanded="1" path="animation-folder/WHITE/" />
+        <folder expanded="1" path="animation-folder/table/" />
+        <folder expanded="1" path="animation-folder/WATERMELON/" />
+        <folder expanded="1" path="animation-folder/yellow/" />
+        <folder expanded="1" path="animation-folder/swiming/" />
+        <folder expanded="1" path="animation-folder/red/" />
         <folder expanded="1" path="animation-folder/bg1/" />
         <folder expanded="1" path="animation-folder/Sprite/" />
         <folder expanded="1" path="animation-folder/Sprite2/" />
