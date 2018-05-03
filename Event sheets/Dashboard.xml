@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Dashboard</name>
+    <events>
+        <event-block sid="210580437437287">
+            <conditions>
+                <condition id="17" name="On tap object" sid="319006628209825" type="Touch">
+                    <param id="0" name="Object">Sprite7</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-7" name="Set size" sid="557391261272133" type="Sprite3">
+                    <param id="0" name="Width">87</param>
+                    <param id="1" name="Height">125</param>
+                </action>
+                <action id="-16" name="Wait" sid="457670895166638" type="System">
+                    <param id="0" name="Seconds">0.1</param>
+                </action>
+                <action id="-7" name="Set size" sid="960219443067963" type="Sprite3">
+                    <param id="0" name="Width">97</param>
+                    <param id="1" name="Height">135</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
